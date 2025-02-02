@@ -1,0 +1,40 @@
+
+
+
+----------------------------------------
+
+PRACTICA 2
+
+ifconfig
+nmtui
+sudo nano /etc/sysconfig/network-scripts/ifcfg
+
+
+------------------------------------------
+
+PRACTICA 3
+
+sudo useradd 
+sudo passwd
+cat /etc/passwd
+grep wheel /etc/sudoers
+sudo usermod -a -G wheel 
+groups 
+sudo yum install nano
+sudo groupadd 
+cat /etc/group
+sudo groupdel 
+sudo userdel -r
+
+---------------------------------------
+
+PRACTICA 4
+
+mkdir 
+vi
+ls
+cat 
+sudo chmod  
+cd
+sudo cp 
+sudo rm -r
